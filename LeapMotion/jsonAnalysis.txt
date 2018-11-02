@@ -1,0 +1,39 @@
+**Finger**
+
+.frameId - The id of the frame this finger appears in.
+.handId - The id of the hand this finger belongs to.
+fingerId - The id of this finger (handId + 0-4 for finger position).
+timeVisible - How long this instance of the finger has been visible.
+.tipPosition - The position of the finger tip.
+.tipVelocity - The velocity of the finger tip.
+.direction - The pointing direction of the finger.
+.stabilizedTipPosition - The stabilized tip position.
+width - The average width of the finger.
+length - The length of the finger.
+isExtended - Whether the finger is more-or-less straight.
+.type - The finger name.
+metacarpal - The first bone of the finger (inside the hand).
+proximal - The second bone of the finger
+intermediate - The third bone of the finger.
+distal - The end bone.
+
+"id", 						--> frameId - The id of the frame this finger appears in.
+"direction",				--> direction - The pointing direction of the finger.
+"handId",					--> handId - The id of the hand this finger belongs to.
+"length",					-->
+"stabilizedTipPosition",	--> stabilizedTipPosition - The stabilized tip position.
+"tipPosition",				--> tipPosition - The position of the finger tip.
+"tipVelocity",				--> tipVelocity - The velocity of the finger tip.
+"tool",						-->
+"carpPosition",				-->
+"mcpPosition",				-->
+"pipPosition",				-->
+"dipPosition",				-->
+"btipPosition",				-->
+"bases",					-->
+"type"						--> type - The finger name.
+
+
+The position of the Carpometacarpal joint
+   *
+   * This is at the distal end of the wrist, and has no common name.

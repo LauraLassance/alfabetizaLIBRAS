@@ -120,6 +120,9 @@ public class SamplesMainMenu : MonoBehaviour
 
         LoadingScreen.SceneToLoad = "3-" + menuItem.ToString();
 
+        if (itemSelected == "ImageTargets")
+            LoadingScreen.SceneToLoad = "SampleScene";
+
         AboutTitle.text = aboutScreenInfo.GetTitle(menuItem.ToString());
         AboutDescription.text = aboutScreenInfo.GetDescription(menuItem.ToString());
 
