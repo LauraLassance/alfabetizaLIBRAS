@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A9681828-8839-8994-5B3A-DF0D44CF119B}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SamplesResources/VuforiaSamplesUI/Scripts/SamplesMainMenu.cs">
+    <Files>
+      <File FileName="Assets/LeapMotion/Modules/Hands/Scripts/Editor/LeapHandsAutoRigEditor.cs" Line="27" Column="18" />
+      <File FileName="Assets/SimpleCloudHandler.cs" Line="64" Column="54" />
+      <File FileName="Assets/SimpleCloudRecoHandler.cs" Line="33" Column="44" />
+      <File FileName="Assets/Vuforia/Editor/Scripts/OpenSourceInitializer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="32" Column="51" />
+      <File FileName="Assets/SamplesResources/VuforiaSamplesUI/Scripts/SamplesMainMenu.cs" Line="50" Column="32" />
+      <File FileName="Assets/Common/Scripts/AsyncSceneLoader.cs" Line="28" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lauralassance/Documents/STUDIES/Poli/9oQuad/3859_TecnologiasAplicInterativas/alfabetizaLIBRAS/VuforiaUnityConnectTest/Assets/LeapMotion/Core/Plugins/LeapCSharp/StructMarshal.cs" relfile="Assets/LeapMotion/Core/Plugins/LeapCSharp/StructMarshal.cs" line="51" column="7" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

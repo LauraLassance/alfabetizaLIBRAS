@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="V" size="1.000000 1.290909" />
+    <ImageTarget name="T" size="1.000000 1.295161" />
+    <ImageTarget name="Z" size="1.000000 1.274151" />
+    <ImageTarget name="Y" size="1.000000 1.296000" />
+    <ImageTarget name="X" size="1.000000 1.288312" />
+    <ImageTarget name="W" size="1.000000 1.273684" />
+    <ImageTarget name="U" size="1.000000 1.291667" />
+    <ImageTarget name="B" size="1.000000 1.295812" />
+    <ImageTarget name="A" size="1.000000 1.282722" />
+    <ImageTarget name="cartaoA" size="10.000000 13.173653" />
+    <ImageTarget name="cartaoW" size="1.000000 1.314176" />
+    <ImageTarget name="cartaoV" size="1.000000 1.318008" />
+    <ImageTarget name="cartaoU" size="1.000000 1.316699" />
+    <ImageTarget name="cartaoT" size="1.000000 1.318008" />
+    <ImageTarget name="cartaoS" size="1.000000 1.318008" />
+    <ImageTarget name="cartaoR" size="1.000000 1.319923" />
+    <ImageTarget name="cartaoQ" size="1.000000 1.313576" />
+    <ImageTarget name="cartaoC" size="1.000000 1.318008" />
+    <ImageTarget name="cartaoY" size="1.000000 1.317400" />
+    <ImageTarget name="cartaoX" size="1.000000 1.319312" />
+    <ImageTarget name="cartaoZ" size="1.000000 1.317400" />
+    <ImageTarget name="cartaoB" size="1.000000 1.317400" />
+  </Tracking>
+</QCARConfig>
