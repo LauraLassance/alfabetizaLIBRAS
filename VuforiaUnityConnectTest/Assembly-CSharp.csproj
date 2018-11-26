@@ -61,6 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BotaoX.cs" />
+    <Compile Include="Assets\BotaoY.cs" />
+    <Compile Include="Assets\BotaoZ.cs" />
     <Compile Include="Assets\Common\Scripts\AboutManager.cs" />
     <Compile Include="Assets\Common\Scripts\AboutScreen.cs" />
     <Compile Include="Assets\Common\Scripts\AboutScreenInfo.cs" />

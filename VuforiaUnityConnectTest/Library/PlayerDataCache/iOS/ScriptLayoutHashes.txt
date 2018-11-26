@@ -1,6 +1,6 @@
 iOS
 PlayerPath?
-/Users/lauralassance/Documents/STUDIES/Poli/9oQuad/3859_TecnologiasAplicInterativas/alfabetizaLIBRAS/VuforiaUnityConnectTest/Builds/ios6
+/Users/lauralassance/Documents/STUDIES/Poli/9oQuad/3859_TecnologiasAplicInterativas/alfabetizaLIBRAS/VuforiaUnityConnectTest/Builds/ios7
 SceneListBegin?
 Assets/SamplesResources/Scenes/0-Splash.unity
 Assets/SamplesResources/Scenes/1-Menu.unity
@@ -447,3 +447,4 @@ c8a41ce4eea7677f6dd2aa0e422a2f04 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 c31ff9acb65f7a15b5c6fd77c3314d83 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 486cd95c82d8305219c352c06b776e1f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 42d777e4cfbdb620738b4f62bab8c35e Assembly-CSharp.dll:Leap.Unity.PolyFinger
+b38611668adccf45f02c98570376f65b Assembly-CSharp.dll:.BotaoX
