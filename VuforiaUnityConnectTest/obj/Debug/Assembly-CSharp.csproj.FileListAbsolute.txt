@@ -1,2 +1,0 @@
-/Users/lauralassance/Documents/STUDIES/Poli/9oQuad/3859_TecnologiasAplicInterativas/alfabetizaLIBRAS/VuforiaUnityConnectTest/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-/Users/lauralassance/Documents/STUDIES/Poli/9oQuad/3859_TecnologiasAplicInterativas/alfabetizaLIBRAS/VuforiaUnityConnectTest/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
