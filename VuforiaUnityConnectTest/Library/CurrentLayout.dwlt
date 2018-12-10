@@ -349,7 +349,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: dcb5ffffc6b6ffff4eb9ffff56b9ffff74b9ffff84b9ffffe4fbffff00000000
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -447,7 +447,7 @@ MonoBehaviour:
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1644, y: 870}
+  m_LastWindowPixelSize: {x: 822, y: 435}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -652,9 +652,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 982e0000
-    m_LastClickedID: 11928
-    m_ExpandedIDs: 00000000982e0000022f0000f62f0000fa2f0000403000000a31000094310000a431000040320000c6320000fe3300007c34000036350000c8350000f03500000c380000a638000000ca9a3b
+    m_SelectedIDs: 122c0000
+    m_LastClickedID: 11282
+    m_ExpandedIDs: 00000000122c00005e2c0000cc2c0000d02c0000702d0000aa2d0000902e0000f62e000032300000a230000026310000dc320000ac360000ae360000b0360000b2360000b4360000b6360000b836000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -682,7 +682,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000982e0000022f0000f62f0000fa2f000040300000bc3000000a31000094310000a431000040320000c6320000fe3300007c34000036350000c8350000f0350000e03600007c3700000c380000a6380000
+    m_ExpandedIDs: 00000000122c00005e2c0000cc2c0000d02c0000702d0000aa2d0000902e0000f62e000032300000a230000026310000dc320000ac360000ae360000b0360000b2360000b4360000b6360000b8360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
